@@ -23,6 +23,3 @@ and reflects my learning process at that time.
 1. Import the database export using phpMyAdmin.
 2. Update database credentials in `project/config/db.php`.
 3. Run the project on a local server (XAMPP / WAMP / LAMP).
-
-## Version Control
-This project is maintained using GitHub for version control.
